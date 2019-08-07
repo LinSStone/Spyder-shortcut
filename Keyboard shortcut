@@ -1,0 +1,9 @@
+1. Spyder 是Anaconda中一个python的集成开发环境，常用快捷键如下：
+  F5：运行   F11：全屏
+  ctrl+1:注释/反注释   ctrl+4/5:块注释/块反注释
+  ctrl+l:跳转到行号    ctrl+i:显示帮助
+  tab:空行前是代码缩进；在输入一个字母后，按tab键会自动补全或代码提示
+  shift+tab:撤销代码缩进
+2. 快捷键查看方法：Tools-->Preferences-->Keyboard-->Shortcut,可查看所有快捷键。
+3. 类似matlab，在IPython console输入变量进行快速验证。
+  
